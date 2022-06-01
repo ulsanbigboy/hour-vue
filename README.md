@@ -1,6 +1,5 @@
 ﻿
 # 한시간만에 끝내는 Vue.js 입문
-# 코드
 
 ## 참조
 1. cd D:\Front
@@ -13,8 +12,9 @@
 1. npm install -g @vue/cli
 2. vue create hour-vue
 3. cd hour-vue
-4. yarn serve
-1. npm install vue-router --save
+4. npm run serve
+5. yarn serve
+6. npm install vue-router --save
 
 ## 참조사이트
 - [Lifecycle-Diagram](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram)
