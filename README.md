@@ -13,10 +13,13 @@
 npm install -g @vue/cli
 vue create hour-vue
 cd hour-vue
+npm run serve
+yarn serve
+npm install vue-router --save
 ```
 
-1. 
-2. 
+1. a
+2. b
 3. cd hour-vue
 4. npm run serve
 5. yarn serve
