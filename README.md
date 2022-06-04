@@ -11,9 +11,8 @@
 ## 참조
 ```
 npm install -g @vue/cli
-```
-```
 vue create hour-vue
+cd hour-vue
 ```
 
 1. 
