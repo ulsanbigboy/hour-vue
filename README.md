@@ -9,8 +9,15 @@
 5. npm start
 
 ## 참조
-1. npm install -g @vue/cli
-2. vue create hour-vue
+```
+npm install -g @vue/cli
+```
+```
+vue create hour-vue
+```
+
+1. 
+2. 
 3. cd hour-vue
 4. npm run serve
 5. yarn serve
@@ -40,6 +47,12 @@ git push -u origin main
 
 
 # hour-vue
+
+## 실행
+```
+npm run serve
+```
+
 
 ## Project setup
 ```
