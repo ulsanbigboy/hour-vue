@@ -1,3 +1,7 @@
+
+<!-- Comment -->
+<!-- Comment -->
+<!-- Comment -->
 <template>
   <div>
     <h1>Welcome to {{title2}}!</h1>
@@ -17,6 +21,10 @@
     </table>
   </div>
 </template>
+
+<!-- Comment -->
+<!-- Comment -->
+<!-- Comment -->
 <script>
 export default {
   data() {
@@ -76,3 +84,5 @@ export default {
   },
 };
 </script>
+
+

@@ -1,3 +1,6 @@
+<!-- Comment -->
+<!-- Comment -->
+<!-- Comment -->
 <template>
   <div id="app">
     <Header />
@@ -7,6 +10,9 @@
   </div>
 </template>
 
+<!-- Comment -->
+<!-- Comment -->
+<!-- Comment -->
 <script>
 import Header from "./components/layout/Header.vue";
 
@@ -18,5 +24,9 @@ export default {
 };
 </script>
 
+<!-- Comment -->
+<!-- Comment -->
+<!-- Comment -->
 <style>
 </style>
+
